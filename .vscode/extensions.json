@@ -3,11 +3,11 @@
 	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
 
 	// List of extensions which should be recommended for users of this workspace.
-	"recommendations": [
+	"recommendations": […54566) Ditulis bersama oleh: Ben Ahmady <32935794+subatoi@users.noreply.github.com>
 
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
-	"unwantedRecommendations": [
+	"unwantedRecommendations": […54566) Ditulis bersama oleh: Ben Ahmady <32935794+subatoi@users.noreply.github.com>
 		"ms-vscode-remote.remote-containers"
 	]
 }
